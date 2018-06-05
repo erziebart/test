@@ -1,5 +1,9 @@
 /* comment */
 
 new_function(args) {
-	return value;
+    return value;
+}
+
+another_function() {
+    return true;
 }
