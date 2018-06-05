@@ -1,6 +1,9 @@
 /* comment */
 
-merge_conflict() {
-  // this causes a merge conflict
-  return 0;
+new_function(args) {
+    return value;
+}
+
+another_function() {
+    return true;
 }
