@@ -1,3 +1,3 @@
 # test
 
-Here is a test Readme.
+This is a Readme for testing purposes.
